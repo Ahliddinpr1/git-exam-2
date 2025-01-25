@@ -13,3 +13,6 @@
 .text {
     text-align: center;
 }
+.qwertyuiop {
+    justify-content: space-between;
+}
